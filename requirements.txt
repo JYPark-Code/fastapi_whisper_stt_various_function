@@ -1,0 +1,10 @@
+openai-whisper
+setuptools-rust
+fastapi
+uvicorn
+python-multipart
+moviepy
+youtube_dl
+pytube
+pydub
+chardet
